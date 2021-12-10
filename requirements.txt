@@ -6,5 +6,4 @@ Nominatim
 numpy
 neighbors
 Image
-enum
 auto
