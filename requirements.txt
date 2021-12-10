@@ -6,3 +6,4 @@ Nominatim
 numpy
 neighbors
 Image
+neighbors
