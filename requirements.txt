@@ -3,7 +3,6 @@ pandas
 plotly.express
 geopy
 Nominatim
-math
 numpy
 neighbors
 Image
