@@ -32,7 +32,6 @@ def getLatLon():
     return nycData
 
 @lt.cache
-@lt.cache(allow_output_mutation=True)
 def get_data(file1):
     df = pd.read_csv(file1)
     df.index = pd.to_datetime(df['DATE_OF_INTEREST'], format="%m/%d/%Y", errors='coerce') 
