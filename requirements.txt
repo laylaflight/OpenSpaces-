@@ -6,4 +6,4 @@ Nominatim
 numpy
 neighbors
 Image
-neighbors
+sklearn
