@@ -9,6 +9,13 @@ import numpy as np
 from sklearn import neighbors
 from PIL import Image
 
+'''
+NAME: Layla Flight
+EMAIL: layla.flight01@myhunter.cuny.edu
+RESOURCES: Tutor-Frank Y; youtu.be/Sb0A9i6d320; askpython.com/python/examples/plot-geographical-data-python-plotly;towardsdatascience.com/pythons-geocoding-convert-a-list-of-addresses-into-a-map-f522ef513fd6; discuss.streamlit.io/t/how-to-set-the-background-body-color-of-streamlit-complete-app/3879;blog.streamlit.io/introducing-theming/
+URL: share.streamlit.io/laylaflight/openspaces-/main/project.py
+'''
+
 def getLatLon():
     nycData = {}
     geolocator = Nominatim(user_agent="example app")
