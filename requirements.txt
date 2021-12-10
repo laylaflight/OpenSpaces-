@@ -6,4 +6,3 @@ Nominatim
 numpy
 neighbors
 Image
-auto
