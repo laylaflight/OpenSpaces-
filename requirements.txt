@@ -3,7 +3,6 @@ pandas
 plotly.express
 geopy
 Nominatim
-json
 math
 numpy
 neighbors
