@@ -6,9 +6,7 @@ Nominatim
 json
 math
 numpy
-sklearn
 neighbors
-PIL
 Image
 enum
 auto
